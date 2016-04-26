@@ -2,8 +2,8 @@
 layout:     post
 title:      "找了个写字的地方"
 subtitle:   "自己搭的一个博客，感谢 Clean Blog Jekyll "
-date:       2015-08-12 17:17:00 
-author:     "Fanxmistic"
+date:       2016-04-26 17:00:00 
+author:     "yyferdinand"
 header-img: "img/post/find_place.jpg"
 tags:
     - 生活
