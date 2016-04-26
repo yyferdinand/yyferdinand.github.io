@@ -1,6 +1,6 @@
-#Fanxmistic Blog 
+#yyferdinand Blog 
 
-###[View Live Fanxmistic Blog &darr;](http://fanxmistic.github.io)
+###[View Live yyferdinand Blog &darr;](http://yyferdinand.github.io)
 
 ![](http://rawtj.photo.store.qq.com/psb?/V13QRhPr10nOy6/dYI6moNI3OWS20ENmaEskTHoG5eXEi5NXnmmNwBHoy8!/r/dIgBAAAAAAAA)
 
