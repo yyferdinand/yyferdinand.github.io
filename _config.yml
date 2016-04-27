@@ -1,14 +1,14 @@
 # Site settings
-title: Fanxmistic
+title: yyferdinand
 header-img: img/home-bg.jpg
-email: qjx0720@163.com
-description: "IStyle, IGuitar, IDesign, IShoot, IFE.。@钱建祥的博客主页, 知乎@ 钱建祥／Front-End／Web &amp; Mobile Lover"
+email: 1603982241.com
+description: "IStyle, IGuitar, IDesign, IShoot, IFE.。@刘艳云的博客主页, 知乎@ 刘艳云／Front-End／Web &amp; Mobile Lover"
 baseurl: ""
-url: "http://fanxmistic.github.io"
-github_username:  Fanxmistic
+url: "http://yyferdinand.github.io"
+github_username:  yyferdinand
 facebook_username:  profile.php?id=100008082793376
-weibo_username: u/3008752532
-zhihu_username: Fanxmistic
+weibo_username: u/3805959223
+zhihu_username: yyferdinand
 
 # Build settings
 markdown: kramdown 
