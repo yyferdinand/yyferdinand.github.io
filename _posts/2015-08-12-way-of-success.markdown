@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "只是坚持"
-subtitle:   "我其实一直是一个懒惰的小女孩。"
+subtitle:   "我其实一直是一个懒惰的人。"
 date:       2016-04-30 08:00:00 
 author:     "yyferdinand"
 header-img: "img/post/just-calm-down.jpg"
