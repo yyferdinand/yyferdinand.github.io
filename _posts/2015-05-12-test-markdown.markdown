@@ -1,14 +1,15 @@
-<!DOCTYPE html><html lang="en"><head>
-<title> 人生最大的幸运---小书匠,在线编辑器,MARKDOWN,Evernote,文件版本</title>
-  <meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="()">
-<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-<style type="text/css">
+---
+layout:     post
+title:      "asdajbsjkabskdbaksbkabskbak"
+subtitle:   "sajdbajbdjadjbajbkjabxax"
+date:       2016-05-12 00:18:00 
+author:     "adfkfkhkafse"
+header-img: "img/post/just-calm-down.jpg"
+tags:
+    - 生活
+    - 随写
+---
 
-</style>
-</head><body>
 <div><div class="preview" id="wmd-preview">
 <style>
 a:focus {
@@ -144,10 +145,10 @@ li.li_linenum:before {
 }
 
 </style><body style="font-family: Helvetica , Tahoma , Arial , STXihei , &quot;&#x534E;&#x6587;&#x7EC6;&#x9ED1;&quot; , &quot;Microsoft YaHei&quot; , &quot;&#x5FAE;&#x8F6F;&#x96C5;&#x9ED1;&quot; , Heiti , &quot;&#x9ED1;&#x4F53;&quot; , SimSun , &quot;&#x5B8B;&#x4F53;&quot; , sans-serif; font-size: 1.15em; font-weight: 100; color: #2f2f2f;">
-	<div class="preview"><h1 class="story_title" style="margin-top: 1em; margin-right: 0; margin-bottom: 1em; margin-left: 0; font-family: inherit; font-weight: 500; line-height: 1.6; color: inherit; text-rendering: optimizelegibility; font-size: 38.5px;">人生最大的幸运</h1><div class="story_tags"><div class="tag blue label" style="display: inline-block; vertical-align: baseline; line-height: 1; margin-top: 0em; margin-right: 0.125em; margin-bottom: 0em; margin-left: 0.125em; background-color: #3b83c0 !important; border-color: #3b83c0 !important; background-image: none; padding-top: 0.6em; padding-right: 0.8em; padding-bottom: 0.6em; padding-left: 0.8em; color: #ffffff !important; text-transform: none; font-weight: bold; border-radius: 0.2857rem; box-sizing: border-box; font-size: 0.7428rem;">朋友</div><div class="tag blue label" style="display: inline-block; vertical-align: baseline; line-height: 1; margin-top: 0em; margin-right: 0.125em; margin-bottom: 0em; margin-left: 0.125em; background-color: #3b83c0 !important; border-color: #3b83c0 !important; background-image: none; padding-top: 0.6em; padding-right: 0.8em; padding-bottom: 0.6em; padding-left: 0.8em; color: #ffffff !important; text-transform: none; font-weight: bold; border-radius: 0.2857rem; box-sizing: border-box; font-size: 0.7428rem;">信管基地</div></div><h3 id="e4bfa1e7aea1e59fbae59cb0" style="margin-top: 0.5em; margin-right: 0; margin-bottom: 0.5em; margin-left: 0; font-family: inherit; font-weight: 500; line-height: 1.1; color: inherit; text-rendering: optimizelegibility; font-size: 24.5px;">信管基地?</h3>
-<p style="margin-top: 0; margin-right: 0; margin-bottom: 10px; margin-left: 0; line-height: 1.8em;"><span class="mark  " style="border: 0; background-color: #ddf3e7; border-radius: 4px; color: #29754d; font-size: 90%; padding-top: 2px; padding-right: 4px; padding-bottom: 2px; padding-left: 4px;">信管基地</span>，我的自然就是我成长最大的</p>
+	<div class="preview"><p style="margin-top: 0; margin-right: 0; margin-bottom: 10px; margin-left: 0; line-height: 1.8em;">###WOSHIBIAOTI</p>
+<pre style="word-wrap: break-word;"><code class="language-javascript hljs" style="background-color: #D6DBDF; border: 0; border-radius: 4px; color: #4f424c; font-size: 90%; padding-top: 0.5em; padding-right: 0.5em; padding-bottom: 0.5em; padding-left: 0.5em; display: block; overflow-x: auto; background: #e7e9db; -webkit-text-size-adjust: none;"><span class="hljs-keyword" style="color: #815ba4;">var</span> str = <span class="hljs-string" style="color: #48b685;">"65217576"</span>
+<span class="hljs-built_in" style="color: #f99b15;">console</span>.log(str);
+</code></pre>
 </div>
 </body>
 </div></div>
-</body></html>
-
