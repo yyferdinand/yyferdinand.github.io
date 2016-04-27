@@ -2,7 +2,7 @@
 layout:     post
 title:      "一个写字的地方"
 subtitle:   "五年后的我也许不做前端，也许不做产品，但我希望五年后的我一定是个优秀的人。 "
-date:       2016-04-27 15:00:00 
+date:       2016-04-27 14:00:00 
 author:     "yyferdinand"
 header-img: "img/post/find_place.jpg"
 tags:
