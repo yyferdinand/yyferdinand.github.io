@@ -1,0 +1,28 @@
+# Site settings
+title: Fanxmistic
+header-img: img/home-bg.jpg
+email: qjx0720@163.com
+description: "IStyle, IGuitar, IDesign, IShoot, IFE.。@钱建祥的博客主页, 知乎@ 钱建祥／Front-End／Web &amp; Mobile Lover"
+baseurl: ""
+url: "http://fanxmistic.github.io"
+github_username:  Fanxmistic
+facebook_username:  profile.php?id=100008082793376
+weibo_username: u/3008752532
+zhihu_username: Fanxmistic
+
+# Build settings
+markdown: kramdown 
+
+# markdown: redcarpet
+# redcarpet can auto highlight code, but the lack of header-id make the catalog impossible 
+
+highlighter: pygments
+permalink: pretty
+paginate: 20
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+# use Github Flavored Markdown !important
+# document: http://jekyllrb.com/docs/configuration/#kramdown
+
+kramdown:
+  input: GFM
