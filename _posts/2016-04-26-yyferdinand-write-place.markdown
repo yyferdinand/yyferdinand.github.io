@@ -9,12 +9,9 @@ tags:
     - 心情
 
 ---
-
-<div class="preview" id="wmd-preview">
-<blockquote>
-  <h5>人生活的世界上好比一只船在大海中航行，最重要的是要辨清前进的方向。</h5>
+<div id="wmd-preview" class="wmd-preview"><div class="md-section-divider"></div><blockquote data-anchor-id="5f45" class="white-blockquote">
+  <p>人生活的世界上好比一只船在大海中航行，最重要的是要辨清前进的方向。</p>
 </blockquote>
-
 <p>现在，终于有一个属于自己的博客了，简直是太激动了。
 做这个博客刚开始通过学习 Git , GitHub 命令行开始，到了解强大的 Github Pages , 以及 <em>IronSummitMedia</em> 提供的 Clean Blog Jekyll 站点生成器模版。感谢钱学长对我耐心的帮助让我收获了信心和坚持学习的决心。再经过学习 Markdown 的语法，掌握了它的写作方式，整个学习的过程总算基本结束了。</p>
 <p>OK，总算给自己找了个写字的地方。</p>
