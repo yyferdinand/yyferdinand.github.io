@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      "只是坚持"
-subtitle:   "我其实一直是一个懒惰的小女孩。"
-date:       2016-04-30 08:00:00 
-author:     "yyferdinand"
+title:      "只是浮躁"
+subtitle:   "我其实一直是带着浪漫色彩的文科生。我的情怀太多了，以至于我的经济能力远远跟不上我的精神水平。"
+date:       2015-11-12 00:18:00 
+author:     "Fanxmistic"
 header-img: "img/post/just-calm-down.jpg"
 tags:
     - 生活
